@@ -1,0 +1,63 @@
+body{
+	background-color: rgb(10.10.10);
+	margin: 0;
+}
+*{
+	color: #F5A9A9;
+}
+
+h1{
+	font-style: 100px;
+	float: left;
+}
+.imagem{
+	float: left;
+	/*... outros atributos */
+}
+}
+div.painel{
+	background: gray;
+	width:50%;
+	height: 50%
+	padding: 15px 15px;
+	box-shadow: 5px 5px black;
+}
+div.navbar{
+	overflow: hidden;
+	background-color: #00BFFF;
+	position: absolute;
+	top: 0;
+	width: 30%;
+	box-shadow: 2px 2px red;
+
+
+}
+
+div.navbar a{
+	float: right;
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+div.navbar a.right{
+	float: right;
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+
+}
+div.navbar img{
+	float: left;
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 5px 16px; 
+	text-decoration: none;
+}
+
+
